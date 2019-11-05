@@ -23,11 +23,15 @@
     h5,
     h6 {
         font-family: "Lato", sans-serif;
-        font-size: 17px;
+        font-size: 20px;
+    }
+
+    h3 {
+      font-size: 25px;
     }
 
     p {
-      text-align: justify;
+      text-align: left;
     }
 
     body,
@@ -49,15 +53,12 @@
         text-decoration: none;
     }
 
-    .bgimg-1,
-    .bgimg-2,
-    .bgimg-3 {
+    .bgimg-1 {
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
-    /* First image (Logo. Full height) */
 
     .bgimg-1 {
         background-image: url("pics/image/main-min.jpg");
@@ -81,7 +82,7 @@
     }
 
     @media only screen and (max-device-width: 1024px) {
-    .bgimg-1, .bgimg-2, .bgimg-3 {
+    .bgimg-1 {
         background-attachment: scroll;
     }
 }
@@ -93,8 +94,8 @@
       <ul class="w3-navbar" id="myNavbar">
           <li class="w3-hide-medium w3-hide-large w3-opennav w3-right"> <a class="w3-hover-black" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i> </a></li>
           <li class="w3-left-align"><a href="index.html">HOME</a></li>
-          <li class="w3-hide-small"><a href="resume.html"><i class="fa fa-envelope"></i> RESUME</a></li>
           <li class="w3-hide-small"><a href="projects.html"><i class="fa fa-th"></i> PROJECTS</a></li>
+          <li class="w3-hide-small"><a href="resume.html"><i class="fa fa-envelope"></i> RESUME</a></li>
       </ul>
       <div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium">
           <ul class="w3-navbar w3-left-align w3-white">

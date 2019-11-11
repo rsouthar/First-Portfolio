@@ -37,11 +37,21 @@
 		.webLink a:hover {
 			color: #757575;
 		}
+
+		.w3-navbar {
+			transition: .4s all ease-in;
+		}
+
+		.solid {
+			background-color: #fff;
+			opacity: 0.9;
+		}
+
 	</style>
 	<body class="w3-light-grey">
 
 		<div class="w3-top">
-        <ul class="w3-navbar" id="myNavbar">
+        <ul id="myNavbar" class="w3-navbar">
             <li class="w3-hide-medium w3-hide-large w3-opennav w3-right"> <a class="w3-hover-black" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i> </a></li>
             <li class="w3-left-align"><a href="index.html">HOME</a></li>
             <li class="w3-hide-small"><a href="projects.html"><i class="fa fa-th"></i> PROJECTS</a></li>
@@ -192,7 +202,7 @@
 						<p>
 							•	Project Scope: Built custom WordPress site with the <a herf"https://underscores.me/">Underscores</a> start theme.
 							Custom plugins for volunteer registration and volunteer tracking.
-							The website can be viewed at <a href="http://www.adoptagrandparentday.org/">Adopt A Grandparent Day.</a>
+							The website can be viewed at <a href="https://www.adoptagrandparentday.org/">Adopt A Grandparent Day.</a>
 						</p>
 						<hr>
 					</div>
@@ -218,6 +228,11 @@
 				<i class="fa fa-codepen fa-fw w3-hover-text-black fa-2x"></i></a>
 			<p><a href="#home" class="w3-btn w3-padding w3-light-grey w3-hover-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a></p>
 		</footer>
-
+		<script
+		  src="https://code.jquery.com/jquery-3.4.1.slim.js"
+		  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+		  crossorigin="anonymous"></script>
+		<script src="js/scrollreveal.js"></script>
+		<script src="js/main.js"></script>
 	</body>
 </html>

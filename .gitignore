@@ -1,0 +1,26 @@
+# Ingore folder name 'pics'
+pics/
+
+# Ingore folder name 'projects'
+projects/
+
+# Ingore File name '.htaccess'
+.htaccess
+
+# Ingore File name 'scrollreveal.js'
+scrollreveal.js
+
+# Ingore File Name 'w3.css'
+w3.css
+
+# Ingore all '.pdf' files
+*.pdf
+
+# Ingore all '.ico' files
+*.ico
+
+# Ingore all '.docx' files
+*.docx
+
+# Ingore all '.html' files
+*.html

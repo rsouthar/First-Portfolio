@@ -19,3 +19,15 @@ sr.reveal('.myProjects', {duration: 500,
 sr.reveal('.myWeb', {duration: 500,
                     origin: 'right',
                     viewFactor: 0.5}, 100);
+
+$(document).ready(function() {
+    // Transition effect for navbar
+    $(window).scroll(function() {
+      // checks if window is scrolled more than 175px, adds/removes solid class
+      if($(this).scrollTop() > 175) {
+          $('#myNavbar').addClass('solid');
+      } else {
+          $('#myNavbar').removeClass('solid');
+      }
+    });
+});

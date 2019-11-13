@@ -24,7 +24,9 @@ html {
 }
 
 .bgimg-1,
-.bgimg-2 {
+.bgimg-2,
+.bgimg-projects,
+.bgimg-resume {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -43,6 +45,16 @@ html {
     min-height: 400px;
 }
 
+.bgimg-projects {
+    background-image: url("../pics/image/main-min.jpg");
+    min-height: 70%;
+}
+
+.bgimg-resume {
+    background-image: url("../pics/image/main-min.jpg");
+    min-height: 70%;
+}
+
 .w3-wide {
     letter-spacing: 10px;
 }
@@ -53,6 +65,10 @@ html {
 
 a {
     text-decoration: none;
+}
+
+.webLink a:hover {
+  color: #757575;
 }
 
 .w3-navbar {

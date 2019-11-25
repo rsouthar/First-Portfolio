@@ -53,12 +53,12 @@ img {
 
 .bgimg-projects {
     background-image: url("../pics/image/main-min.jpg");
-    min-height: 70%;
+    min-height: 50%;
 }
 
 .bgimg-resume {
     background-image: url("../pics/image/main-min.jpg");
-    min-height: 70%;
+    min-height: 50%;
 }
 
 .w3-wide {

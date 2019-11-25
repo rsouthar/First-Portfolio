@@ -73,6 +73,10 @@ a {
     text-decoration: none;
 }
 
+.click {
+  color: #000;
+}
+
 .webLink a:hover {
   color: #757575;
 }

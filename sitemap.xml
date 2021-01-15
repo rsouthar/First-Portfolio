@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.richardsouthard.com/</loc>
+  <lastmod>2020-04-19T13:22:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/index.html</loc>
+  <lastmod>2020-04-19T13:22:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects.html</loc>
+  <lastmod>2020-04-19T13:29:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/resume.html</loc>
+  <lastmod>2020-04-19T13:23:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/VetWebsiteV2.1/index.html</loc>
+  <lastmod>2018-05-28T12:37:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/PolowDudeWebsite/index.html</loc>
+  <lastmod>2018-05-19T12:25:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/Weather/index.html</loc>
+  <lastmod>2018-03-04T15:13:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/WikiViewer/wiki.html</loc>
+  <lastmod>2018-03-11T12:23:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/Random%20Quote/index.html</loc>
+  <lastmod>2018-06-28T11:42:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/TwitchTv/twitch.html</loc>
+  <lastmod>2020-02-26T12:01:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/Personal_Portfolio/index.html</loc>
+  <lastmod>2020-02-26T12:01:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/PolowDudeWebsite/music.html</loc>
+  <lastmod>2018-05-19T11:43:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/PolowDudeWebsite/videos.html</loc>
+  <lastmod>2018-05-19T11:43:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.richardsouthard.com/projects/PolowDudeWebsite/tours.html</loc>
+  <lastmod>2018-05-19T11:43:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
